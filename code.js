@@ -1,4 +1,4 @@
-const kits = ["crash", "Hit-Hat", "kick", "snare", "tom"];
+const kits = ["crash", "hit-hat", "kick", "snare", "tom"];
 const containerEl = document.querySelector(".container");
 
 kits.forEach((kit=>{
